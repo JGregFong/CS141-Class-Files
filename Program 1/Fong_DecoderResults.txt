@@ -1,0 +1,9 @@
+Script started on Tue 05 Apr 2016 07:13:32 PM PDT
+]0;jgfong@fluffy:~/CS141/Program 1[01;32mjgfong@fluffy[01;34m ~/CS141/Program 1 $[00m javaexitjava Fong_Decoder<secretText2.txt1.txt
+The secret message is: 
+the angels have the phone box]0;jgfong@fluffy:~/CS141/Program 1[01;32mjgfong@fluffy[01;34m ~/CS141/Program 1 $[00m java Fong_Decoder<secretText1.txtexit[Kjava Fong_Decoder<secretText1.txt[1P.txt2.txt
+The secret message is: 
+hit that wire with the connecting hook at precisely 88 miles per hour]0;jgfong@fluffy:~/CS141/Program 1[01;32mjgfong@fluffy[01;34m ~/CS141/Program 1 $[00m exit
+exit
+
+Script done on Tue 05 Apr 2016 07:13:54 PM PDT

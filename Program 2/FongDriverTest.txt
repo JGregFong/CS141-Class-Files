@@ -1,0 +1,163 @@
+Script started on Tue 19 Apr 2016 07:43:24 PM PDT
+]0;jgfong@fluffy:~/CS141/Program2[01;32mjgfong@fluffy[01;34m ~/CS141/Program2 $[00m exit[1Pndxitjavac Fong_Driverv2.javaexit[K[1Pndxit[Kjava Fong_Driver
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+1
+Enter the radius of the circle:
+5
+The area of this particular circle is: 78.53981633974483
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+2
+Enter the length of the rectangle:
+6
+Enter the width of the rectangle:
+17
+The area of this particular rectangle is: 102.0
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+3
+Enter the base of the triangle:
+9.487
+Enter the height of the triangle:
+25
+The area of this particular triangle is: 118.5875
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+1
+Enter the radius of the circle:
+-9
+That is not a valid input. Please enter a positive number.
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+2
+Enter the length of the rectangle:
+-9
+Enter the width of the rectangle:
+-7
+-9.0 and -7.0 are not valid inputs. Please enter positive numbers.
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+2
+Enter the length of the rectangle:
+-8
+Enter the width of the rectangle:
+4
+-8.0 and 4.0 are not valid inputs. Please enter positive numbers.
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+2
+Enter the length of the rectangle:
+23
+Enter the width of the rectangle:
+-1
+23.0 and -1.0 are not valid inputs. Please enter positive numbers.
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+3
+Enter the base of the triangle:
+-5
+Enter the height of the triangle:
+28
+28.0 and -5.0 are not valid inputs. Please enter positive numbers.
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+3
+Enter the base of the triangle:
+-24
+Enter the height of the triangle:
+1
+1.0 and -24.0 are not valid inputs. Please enter positive numbers.
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+3
+Enter the base of the triangle:
+-9
+Enter the height of the triangle:
+-24
+-24.0 and -9.0 are not valid inputs. Please enter positive numbers.
+----------------------------------
+Geometry Calculator
+----------------------------------
+1. Calculate the Area of a Circle
+2. Calculate the Area of a Rectangle
+3. Calculate the Area of a Triangle
+4. Quit
+ 
+Enter your choice (1-4):
+4
+Exiting.
+]0;jgfong@fluffy:~/CS141/Program2[01;32mjgfong@fluffy[01;34m ~/CS141/Program2 $[00m exit
+exit
+
+Script done on Tue 19 Apr 2016 07:46:00 PM PDT
